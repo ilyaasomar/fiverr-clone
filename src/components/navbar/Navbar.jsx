@@ -19,12 +19,12 @@ const Navbar = () => {
           <span>Become a Sellter</span>
           <button>Join</button>
         </div>
+      </div>
         <hr />
         <div className="menu">
           <span>Test</span>
           <span>Test 2</span>
         </div>
-      </div>
     </div>
   );
 };
